@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "learning of fundamentals of sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapryaz/fundamental_of_sass.git"
+  },
+  "author": "Vasya Rashpil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapryaz/fundamental_of_sass/issues"
+  },
+  "homepage": "https://github.com/mapryaz/fundamental_of_sass#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
